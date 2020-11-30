@@ -1,0 +1,62 @@
+body {
+    background:springgreen ;
+
+}
+.name {
+ font-size: 30px;
+ position: absolute;
+ top: 10px;
+ left:20px;
+}
+#home {
+ position:absolute;
+ top:10px;
+ right:350px;
+}
+#about {
+    position:absolute;
+ top:10px;
+ right:250px;
+}
+#list {
+    position:absolute;
+ top:10px;
+ right:50px;
+}
+.header {
+    
+    background-color: deepskyblue;
+    
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    
+ 
+ }
+ p {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h3 {
+    margin-left: 300px;
+    margin-right: 100px;
+    
+}
+
+#wwf {
+    position:absolute;
+    top:200px;
+
+}
+#iucn {
+    position:absolute;
+    top:400px;
+}
+#dow {
+    position:absolute;
+    top:600px;
+}
